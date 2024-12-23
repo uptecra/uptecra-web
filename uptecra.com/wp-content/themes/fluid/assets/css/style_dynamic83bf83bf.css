@@ -1,0 +1,101 @@
+/* generated in /var/www/html/wp-content/themes/fluid/assets/custom-styles/general-custom-styles.php fluid_edge_design_styles function */
+.edgtf-boxed .edgtf-wrapper { background-attachment: fixed;}
+
+/* generated in /var/www/html/wp-content/themes/fluid/assets/custom-styles/general-custom-styles.php fluid_edge_content_styles function */
+.edgtf-content .edgtf-content-inner > .edgtf-full-width > .edgtf-full-width-inner { padding-top: 0px;}
+
+/* generated in /var/www/html/wp-content/themes/fluid/assets/custom-styles/general-custom-styles.php fluid_edge_content_styles function */
+.edgtf-content .edgtf-content-inner > .edgtf-container > .edgtf-container-inner { padding-top: 40px;}
+
+/* generated in /var/www/html/wp-content/themes/fluid/framework/modules/contactform7/custom-styles/contact-form.php fluid_edge_contact_form7_text_styles_1 function */
+.cf7_custom_style_1 input.wpcf7-text::-webkit-input-placeholder, .cf7_custom_style_1 textarea.wpcf7-textarea::-webkit-input-placeholder { color: #cccccc;}
+
+/* generated in /var/www/html/wp-content/themes/fluid/framework/modules/contactform7/custom-styles/contact-form.php fluid_edge_contact_form7_text_styles_1 function */
+.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-text, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-number, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-date, .cf7_custom_style_1 textarea.wpcf7-form-control.wpcf7-textarea, .cf7_custom_style_1 select.wpcf7-form-control.wpcf7-select, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-quiz { color: #cccccc;background-color: rgba(81, 89, 201, 1);border-color: rgba(81, 89, 201, 1);padding-top: 21px;padding-bottom: 21px;padding-left: 28px;}
+
+/* generated in /var/www/html/wp-content/themes/fluid/framework/modules/contactform7/custom-styles/contact-form.php fluid_edge_contact_form7_focus_styles_1 function */
+.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-text:focus, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-number:focus, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-date:focus, .cf7_custom_style_1 textarea.wpcf7-form-control.wpcf7-textarea:focus, .cf7_custom_style_1 select.wpcf7-form-control.wpcf7-select:focus, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-quiz:focus { background-color: rgba(135, 142, 239, 1);border-color: rgba(135, 142, 239, 1);}
+
+/* generated in /var/www/html/wp-content/themes/fluid/framework/modules/contactform7/custom-styles/contact-form.php fluid_edge_contact_form7_button_styles_1 function */
+.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-submit { font-size: 12px;font-weight: 300;padding-top: 0;padding-bottom: 0;height: 66px;line-height: 66px;background-color: rgba(94, 103, 219, 1);border-radius: 0px;padding-left: 26px;padding-right: 26px;}
+
+/* generated in /var/www/html/wp-content/themes/fluid/framework/modules/contactform7/custom-styles/contact-form.php fluid_edge_contact_form7_button_hover_styles_1 function */
+.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-submit:not([disabled]):hover { background-color: rgba(51, 51, 51, 1);}
+
+/* generated in /var/www/html/wp-content/themes/fluid/framework/modules/contactform7/custom-styles/contact-form.php fluid_edge_contact_form7_text_styles_2 function */
+.cf7_custom_style_2 input.wpcf7-text::-webkit-input-placeholder, .cf7_custom_style_2 textarea.wpcf7-textarea::-webkit-input-placeholder { color: #ffffff;}
+
+/* generated in /var/www/html/wp-content/themes/fluid/framework/modules/contactform7/custom-styles/contact-form.php fluid_edge_contact_form7_text_styles_2 function */
+.cf7_custom_style_2 input.wpcf7-form-control.wpcf7-text, .cf7_custom_style_2 input.wpcf7-form-control.wpcf7-number, .cf7_custom_style_2 input.wpcf7-form-control.wpcf7-date, .cf7_custom_style_2 textarea.wpcf7-form-control.wpcf7-textarea, .cf7_custom_style_2 select.wpcf7-form-control.wpcf7-select, .cf7_custom_style_2 input.wpcf7-form-control.wpcf7-quiz { color: #ffffff;background-color: rgba(17, 16, 23, 1);border-color: rgba(17, 16, 23, 1);padding-top: 21px;padding-bottom: 21px;padding-left: 28px;}
+
+/* generated in /var/www/html/wp-content/themes/fluid/framework/modules/contactform7/custom-styles/contact-form.php fluid_edge_contact_form7_label_styles_2 function */
+.cf7_custom_style_2 p { color: #cccccc;}
+
+/* generated in /var/www/html/wp-content/themes/fluid/framework/modules/contactform7/custom-styles/contact-form.php fluid_edge_contact_form7_button_styles_2 function */
+.cf7_custom_style_2 input.wpcf7-form-control.wpcf7-submit { font-size: 12px;font-weight: 300;padding-top: 0;padding-bottom: 0;height: 66px;line-height: 66px;background-color: rgba(50, 49, 59, 1);border-color: rgba(50, 49, 59, 1);border-radius: 0px;padding-left: 26px;padding-right: 26px;}
+
+/* generated in /var/www/html/wp-content/themes/fluid/framework/modules/contactform7/custom-styles/contact-form.php fluid_edge_contact_form7_button_hover_styles_2 function */
+.cf7_custom_style_2 input.wpcf7-form-control.wpcf7-submit:not([disabled]):hover { background-color: rgba(101, 111, 214, 1);border-color: rgba(101, 111, 214, 1);}
+
+/* generated in /var/www/html/wp-content/themes/fluid/framework/modules/contactform7/custom-styles/contact-form.php fluid_edge_contact_form7_text_styles_3 function */
+.cf7_custom_style_3 input.wpcf7-text::-webkit-input-placeholder, .cf7_custom_style_3 textarea.wpcf7-textarea::-webkit-input-placeholder { color: #666666;}
+
+/* generated in /var/www/html/wp-content/themes/fluid/framework/modules/contactform7/custom-styles/contact-form.php fluid_edge_contact_form7_text_styles_3 function */
+.cf7_custom_style_3 textarea.wpcf7-form-control.wpcf7-textarea { height: 40px;}
+
+/* generated in /var/www/html/wp-content/themes/fluid/framework/modules/contactform7/custom-styles/contact-form.php fluid_edge_contact_form7_text_styles_3 function */
+.cf7_custom_style_3 input.wpcf7-form-control.wpcf7-text, .cf7_custom_style_3 input.wpcf7-form-control.wpcf7-number, .cf7_custom_style_3 input.wpcf7-form-control.wpcf7-date, .cf7_custom_style_3 textarea.wpcf7-form-control.wpcf7-textarea, .cf7_custom_style_3 select.wpcf7-form-control.wpcf7-select, .cf7_custom_style_3 input.wpcf7-form-control.wpcf7-quiz { color: #666666;background-color: rgba(255, 255, 255, 1);border-color: rgba(255, 255, 255, 1);padding-top: 21px;padding-bottom: 21px;padding-left: 28px;}
+
+/* generated in /var/www/html/wp-content/themes/fluid/framework/modules/contactform7/custom-styles/contact-form.php fluid_edge_contact_form7_focus_styles_3 function */
+.cf7_custom_style_3 input.wpcf7-form-control.wpcf7-text:focus, .cf7_custom_style_3 input.wpcf7-form-control.wpcf7-number:focus, .cf7_custom_style_3 input.wpcf7-form-control.wpcf7-date:focus, .cf7_custom_style_3 textarea.wpcf7-form-control.wpcf7-textarea:focus, .cf7_custom_style_3 select.wpcf7-form-control.wpcf7-select:focus, .cf7_custom_style_3 input.wpcf7-form-control.wpcf7-quiz:focus { background-color: rgba(251, 251, 251, 1);border-color: rgba(251, 251, 251, 1);}
+
+/* generated in /var/www/html/wp-content/themes/fluid/framework/modules/contactform7/custom-styles/contact-form.php fluid_edge_contact_form7_button_styles_3 function */
+.cf7_custom_style_3 input.wpcf7-form-control.wpcf7-submit { color: #ffffff;font-size: 12px;font-weight: 300;padding-top: 0;padding-bottom: 0;height: 66px;line-height: 66px;background-color: rgba(51, 51, 51, 1);border-radius: 0px;padding-left: 26px;padding-right: 26px;}
+
+/* generated in /var/www/html/wp-content/themes/fluid/framework/modules/contactform7/custom-styles/contact-form.php fluid_edge_contact_form7_button_hover_styles_3 function */
+.cf7_custom_style_3 input.wpcf7-form-control.wpcf7-submit:not([disabled]):hover { background-color: rgba(153, 153, 153, 1);}
+
+/* generated in /var/www/html/wp-content/themes/fluid/framework/modules/contactform7/custom-styles/contact-form.php fluid_edge_contact_form7_text_styles_4 function */
+.cf7_custom_style_4 input.wpcf7-form-control.wpcf7-text, .cf7_custom_style_4 input.wpcf7-form-control.wpcf7-number, .cf7_custom_style_4 input.wpcf7-form-control.wpcf7-date, .cf7_custom_style_4 textarea.wpcf7-form-control.wpcf7-textarea, .cf7_custom_style_4 select.wpcf7-form-control.wpcf7-select, .cf7_custom_style_4 input.wpcf7-form-control.wpcf7-quiz { border-color: rgba(221, 221, 221, 1);}
+
+/* generated in /var/www/html/wp-content/themes/fluid/framework/modules/contactform7/custom-styles/contact-form.php fluid_edge_contact_form7_button_styles_4 function */
+.cf7_custom_style_4 input.wpcf7-form-control.wpcf7-submit { padding-top: 0;padding-bottom: 0;height: 44px;line-height: 44px;background-color: rgba(198, 198, 198, 1);border-radius: 0px;padding-left: 20px;padding-right: 20px;}
+
+/* generated in /var/www/html/wp-content/themes/fluid/framework/modules/contactform7/custom-styles/contact-form.php fluid_edge_contact_form7_button_hover_styles_4 function */
+.cf7_custom_style_4 input.wpcf7-form-control.wpcf7-submit:not([disabled]):hover { background-color: rgba(188, 188, 188, 1);}
+
+/* generated in /var/www/html/wp-content/themes/fluid/framework/modules/header/custom-styles/header.php fluid_edge_header_area_styles function */
+.edgtf-page-header { background-color: rgba(249, 249, 249, 1);}
+
+/* generated in /var/www/html/wp-content/themes/fluid/framework/modules/header/custom-styles/header.php fluid_edge_header_standard_menu_area_styles function */
+.edgtf-header-standard .edgtf-page-header .edgtf-logo-wrapper a { max-height: 79px;}
+
+/* generated in /var/www/html/wp-content/themes/fluid/framework/modules/header/custom-styles/header.php fluid_edge_header_standard_menu_area_styles function */
+.edgtf-header-standard .edgtf-page-header .edgtf-menu-area { height: 79px;}
+
+/* generated in /var/www/html/wp-content/themes/fluid/framework/modules/header/custom-styles/header.php fluid_edge_vertical_menu_styles function */
+.edgtf-header-vertical .edgtf-vertical-area-background { background-color: #f9f9f9;}
+
+/* generated in /var/www/html/wp-content/themes/fluid/framework/modules/header/custom-styles/header.php fluid_edge_sticky_header_styles function */
+.edgtf-main-menu.edgtf-sticky-nav > ul > li > a { color: #dd9933;}
+
+/* generated in /var/www/html/wp-content/themes/fluid/framework/modules/header/custom-styles/header.php fluid_edge_main_menu_styles function */
+.edgtf-main-menu > ul > li > a { color: #ffffff;}
+
+/* generated in /var/www/html/wp-content/themes/fluid/framework/modules/header/custom-styles/header.php fluid_edge_main_menu_styles function */
+.edgtf-main-menu > ul > li > a:hover { color: #dbdbdb;}
+
+/* generated in /var/www/html/wp-content/themes/fluid/framework/modules/header/custom-styles/header.php fluid_edge_main_menu_styles function */
+.edgtf-light-header .edgtf-page-header > div:not(.edgtf-sticky-header):not(.edgtf-fixed-wrapper) .edgtf-main-menu > ul > li > a:hover { color: ##dbdbdb;}
+
+            @media only screen and (max-width: 1024px) {
+	            /* generated in /var/www/html/wp-content/themes/fluid/framework/modules/header/custom-styles/mobile-header.php fluid_edge_mobile_logo_styles function */
+.edgtf-mobile-header .edgtf-mobile-logo-wrapper a { height: 60px !important;}
+
+            }
+                    @media only screen and (max-width: 480px) {
+	            /* generated in /var/www/html/wp-content/themes/fluid/framework/modules/header/custom-styles/mobile-header.php fluid_edge_mobile_logo_styles function */
+.edgtf-mobile-header .edgtf-mobile-logo-wrapper a { height: 60px !important;}
+
+            }
+        
